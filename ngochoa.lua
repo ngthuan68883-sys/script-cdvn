@@ -60,5 +60,3 @@ UtilTab:CreateToggle({ Name = "Anti-Ban", CurrentValue = false, Flag = "AntiBan"
       end)
    end
 end})
-
-Rayfield:Notify({ Title = "Thành công!", Content = "Script ngoc hoadzver1 đã thu gọn!", Duration = 3 })
